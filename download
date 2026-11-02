@@ -1,0 +1,10 @@
+.dart_tool/
+.flutter-plugins*
+.packages
+build/
+.idea/
+*.iml
+.env
+.env.*
+!.env.example
+**/GeneratedPluginRegistrant.*
